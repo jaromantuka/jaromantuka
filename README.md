@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Olenka
+- 👀 I’m interested in too many things
+- 🌱 I’m currently learning python for data analytics. I work in IT company creating public procurement system as analyst in marketing department
+- and dance lindy hop
